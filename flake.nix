@@ -92,7 +92,6 @@
 
         '';
 
-      ags = ags.packages.${system};
     };
 
 #    apps.default = {
